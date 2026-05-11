@@ -1,7 +1,7 @@
 <h1 align="center">Space Breaker</h1>
 
 <p align="center">
-  This Game is so hard please don't judging me
+  Have Fun ...
 </p>
 
 ---
