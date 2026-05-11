@@ -1,7 +1,7 @@
-<h1 align="center">Game Name</h1>
+<h1 align="center">Space Breaker</h1>
 
 <p align="center">
-  A small arcade-style game project made with ...
+  This Game is so hard please don't judging me
 </p>
 
 ---
